@@ -17,6 +17,6 @@ void HelloWorld () {
     }
     gr = new TGraph(n,x,y);
     gr->Draw("AC*");
-    //here's some stuff
+    //here's some more stuff
     return;
 }
